@@ -1,0 +1,11 @@
+{
+  "name": "terminal-list-readers",
+  "configureDotEnv": true,
+  "integrations": [
+    {
+      "name": "main",
+      "clients": ["vue"],
+      "servers": ["node"]
+    }
+  ]
+}
